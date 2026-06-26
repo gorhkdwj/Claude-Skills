@@ -10,3 +10,6 @@ Thumbs.db
 # 에디터
 .vscode/
 .idea/
+
+# Claude Code 머신 로컬 설정
+.claude/
