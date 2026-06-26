@@ -1,0 +1,9 @@
+{
+  "name": "data-analytics-skills",
+  "version": "1.1.0",
+  "description": "데이터 분석가를 위한 40개 전문 스킬 모음. 분석 경로 가이드, 다중 파일 병합, 컬럼 탐색, 데이터 전처리, 피처 엔지니어링, EDA, 통계 분석, 머신러닝, 시각화, 이해관계자 커뮤니케이션까지 분석 워크플로 전 단계를 커버합니다.",
+  "author": {
+    "name": "김재천"
+  },
+  "keywords": ["data-analytics", "eda", "statistics", "machine-learning", "visualization", "sql"]
+}
