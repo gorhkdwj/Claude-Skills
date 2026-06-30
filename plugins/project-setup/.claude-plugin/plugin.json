@@ -1,0 +1,9 @@
+{
+  "name": "project-setup",
+  "version": "1.0.0",
+  "description": "새 프로젝트 운영 체계 셋업 스킬 — CLAUDE.md(작업 헌법), Worklog/Decisionlog/Troubleshootinglog, docs(기획·요구사항 계약·구현·검증), src/tests/tools/out 구조를 제안·생성하고, 구현 전 1차 계획을 보고한다.",
+  "author": {
+    "name": "김재천"
+  },
+  "keywords": ["project-setup", "scaffold", "governance", "CLAUDE.md", "워크플로"]
+}
